@@ -19,5 +19,5 @@ public class LibroResponse {
 
     // Solo el nombre de la categoria, no el objeto completo.
     // Se obtiene desde libro.getCategoria().getNombre() en mapToDTO.
-    private String categoriaNombre;
+    private String categoria;
 }
