@@ -1,19 +1,14 @@
-Estado del Proyecto
-✅ Completado
-Módulo de Libros: CRUD completo para registrar y gestionar el catálogo de libros.
+# 📚 BookPoint Chile
 
-Módulo de Categorías: Sistema para clasificar los libros y artículos.
+Sistema backend para la gestión de inventario, ventas y usuarios de la librería nacional BookPoint Chile.
 
-⏳ Siguientes Pasos (En progreso)
-Módulo de Usuarios: Creación de los perfiles del sistema (Administrador, Jefe de Sucursal, Asistente, Cliente, etc.).
+## 🚀 Estado del Proyecto
 
-Módulo de Carrito de Compras: Funcionalidad para que los usuarios puedan agregar productos y gestionar sus compras.
+- [x] **Módulo de Libros:** CRUD completo para registrar y gestionar el catálogo.
+- [x] **Módulo de Categorías:** Sistema para clasificar los libros y artículos.
+- [ ] **Módulo de Usuarios:** Creación de la entidad Usuario y perfiles (Admin, Jefe, Asistente, Cliente).
+- [ ] **Módulo de Carrito:** Lógica para agregar productos y gestionar compras web.
+- [ ] **Seguridad:** Implementar Spring Security para control de accesos.
 
-🛠️ Tecnologías Utilizadas
-Java 17
-
-Spring Boot
-
-Spring Data JPA
-
-Base de Datos H2 (En memoria para desarrollo)
+## 🛠️ Tecnologías Utilizadas
+* Java 17 | Spring Boot | Spring Data JPA | Base de Datos H2
